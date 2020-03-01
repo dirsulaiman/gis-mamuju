@@ -2,6 +2,9 @@
 - Source : [Gibran Zidane](https://github.com/zkgz/kkn_ppm)
 - Tugas Kelompok 11 SIG
 
+Preview
+![preview](public/preview.png)
+
 ## Installation
 - Run `composer install`
 - Rename `.envexample` to `.env` and configure it
